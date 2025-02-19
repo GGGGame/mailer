@@ -1,0 +1,104 @@
+[2025-02-19 00:00:49] INFO: Server started with port: 3040
+[2025-02-19 00:00:51] INFO: CSRF token generated
+[2025-02-19 00:00:58] ERROR: Invalid origin
+[2025-02-19 00:00:58] INFO: CSRF token generated
+[2025-02-19 00:01:34] INFO: Server started with port: 3040
+[2025-02-19 00:01:38] INFO: CSRF token generated
+[2025-02-19 00:01:42] ERROR: Invalid origin
+[2025-02-19 00:01:42] INFO: CSRF token generated
+[2025-02-19 00:02:31] INFO: Server started with port: 3040
+[2025-02-19 00:02:34] INFO: CSRF token generated
+[2025-02-19 00:02:37] ERROR: Invalid origin
+[2025-02-19 00:02:37] INFO: CSRF token generated
+[2025-02-19 00:02:54] INFO: Server started with port: 3040
+[2025-02-19 00:02:58] INFO: CSRF token generated
+[2025-02-19 00:03:02] ERROR: Invalid origin
+[2025-02-19 00:03:02] INFO: CSRF token generated
+[2025-02-19 00:03:20] INFO: CSRF token generated
+[2025-02-19 00:03:24] ERROR: Invalid origin
+[2025-02-19 00:03:24] INFO: CSRF token generated
+[2025-02-19 00:04:51] INFO: Server started with port: 3040
+[2025-02-19 00:04:57] INFO: Server started with port: 3040
+[2025-02-19 00:05:00] INFO: CSRF token generated
+[2025-02-19 00:05:06] ERROR: Invalid origin
+[2025-02-19 00:05:06] INFO: CSRF token generated
+[2025-02-19 00:07:10] INFO: CSRF token generated
+[2025-02-19 00:07:18] INFO: Server started with port: 3040
+[2025-02-19 00:07:22] INFO: CSRF token generated
+[2025-02-19 00:07:59] INFO: Server started with port: 3040
+[2025-02-19 00:08:03] INFO: CSRF token generated
+[2025-02-19 00:09:08] INFO: Server started with port: 3040
+[2025-02-19 00:09:15] INFO: CSRF token generated
+[2025-02-19 00:09:59] INFO: CSRF token generated
+[2025-02-19 00:11:50] INFO: CSRF token generated
+[2025-02-19 00:14:22] INFO: Server started with port: 3040
+[2025-02-19 00:14:26] INFO: CSRF token generated
+[2025-02-19 00:15:17] INFO: Server started with port: 3040
+[2025-02-19 00:15:20] INFO: CSRF token generated
+[2025-02-19 00:15:53] INFO: CSRF token generated
+[2025-02-19 00:15:53] ERROR: CSRF token missing
+[2025-02-19 00:15:53] INFO: CSRF token generated
+[2025-02-19 00:16:05] INFO: CSRF token generated
+[2025-02-19 00:16:05] ERROR: CSRF token missing
+[2025-02-19 00:16:05] INFO: CSRF token generated
+[2025-02-19 00:16:22] INFO: Server started with port: 3040
+[2025-02-19 00:16:26] INFO: CSRF token generated
+[2025-02-19 00:16:26] ERROR: CSRF token missing
+[2025-02-19 00:16:26] INFO: CSRF token generated
+[2025-02-19 00:17:51] INFO: Server started with port: 3040
+[2025-02-19 00:17:53] INFO: CSRF token generated
+[2025-02-19 00:17:53] ERROR: CSRF token missing
+[2025-02-19 00:17:53] INFO: CSRF token generated
+[2025-02-19 00:18:05] INFO: Server started with port: 3040
+[2025-02-19 00:18:08] INFO: CSRF token generated
+[2025-02-19 00:18:08] ERROR: Invalid CSRF token
+[2025-02-19 00:18:08] INFO: CSRF token generated
+[2025-02-19 00:18:18] INFO: Server started with port: 3040
+[2025-02-19 00:18:22] INFO: CSRF token generated
+[2025-02-19 00:18:22] ERROR: Invalid CSRF token
+[2025-02-19 00:18:22] INFO: CSRF token generated
+[2025-02-19 00:19:55] INFO: Server started with port: 3040
+[2025-02-19 00:19:59] INFO: CSRF token generated
+[2025-02-19 00:19:59] ERROR: CSRF token missing
+[2025-02-19 00:19:59] INFO: CSRF token generated
+[2025-02-19 00:21:39] INFO: Server started with port: 3040
+[2025-02-19 00:21:59] INFO: Server started with port: 3040
+[2025-02-19 00:22:05] INFO: CSRF token generated
+[2025-02-19 00:22:05] ERROR: CSRF token missing
+[2025-02-19 00:22:05] INFO: CSRF token generated
+[2025-02-19 00:24:32] INFO: CSRF token generated
+[2025-02-19 00:25:25] INFO: CSRF token generated
+[2025-02-19 00:25:48] INFO: CSRF token generated
+[2025-02-19 00:25:48] ERROR: CSRF token missing
+[2025-02-19 00:25:48] INFO: CSRF token generated
+[2025-02-19 00:26:04] INFO: CSRF token generated
+[2025-02-19 00:26:04] ERROR: CSRF token missing
+[2025-02-19 00:26:04] INFO: CSRF token generated
+[2025-02-19 00:42:17] INFO: CSRF token generated
+[2025-02-19 00:42:19] INFO: CSRF token generated
+[2025-02-19 00:42:22] INFO: CSRF token generated
+[2025-02-19 00:44:00] INFO: CSRF token generated
+[2025-02-19 00:44:03] INFO: CSRF token generated
+[2025-02-19 00:44:05] INFO: CSRF token generated
+[2025-02-19 00:44:05] INFO: Sending email to: divapramy@gmail.com
+[2025-02-19 00:44:07] INFO: Email sent! 250 2.0.0 OK  1739922247 a640c23a62f3a-abb86c9320csm643466966b.55 - gsmtp
+[2025-02-19 00:44:44] INFO: CSRF token generated
+[2025-02-19 00:45:05] INFO: CSRF token generated
+[2025-02-19 00:45:24] INFO: CSRF token generated
+[2025-02-19 00:45:24] INFO: Sending email to: divapramy@gmail.com
+[2025-02-19 00:45:25] INFO: Email sent! 250 2.0.0 OK  1739922325 a640c23a62f3a-abb5781da94sm806249366b.85 - gsmtp
+[2025-02-19 03:21:36] INFO: Server started with port: 3040
+[2025-02-19 03:22:02] INFO: CSRF token generated
+[2025-02-19 03:22:02] INFO: CSRF token generated
+[2025-02-19 03:25:52] INFO: CSRF token generated
+[2025-02-19 03:25:52] INFO: CSRF token generated
+[2025-02-19 03:25:52] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 03:25:54] INFO: Email sent! 250 2.0.0 OK  1739931954 a640c23a62f3a-aba53231fe0sm1162591866b.4 - gsmtp
+[2025-02-19 03:36:28] INFO: CSRF token generated
+[2025-02-19 03:36:28] INFO: CSRF token generated
+[2025-02-19 03:43:54] INFO: CSRF token generated
+[2025-02-19 03:43:54] INFO: CSRF token generated
+[2025-02-19 03:43:58] INFO: CSRF token generated
+[2025-02-19 03:43:58] INFO: CSRF token generated
+[2025-02-19 03:43:58] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 03:44:01] INFO: Email sent! 250 2.0.0 OK  1739933041 a640c23a62f3a-abb9654a6b2sm538797266b.135 - gsmtp

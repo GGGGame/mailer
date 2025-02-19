@@ -1,0 +1,29 @@
+[2025-02-18 19:56:05 INFO: Server started with port: 3040 ]
+[2025-02-18 19:56:23] INFO: Server started with port: 3040 ]
+[2025-02-18 19:56:31] INFO: Server started with port: 3040
+[2025-02-18 19:56:40] WARN: Attempted Route: /v1/api/data/test
+[2025-02-18 22:49:35] INFO: Server started with port: 3040
+[2025-02-18 22:50:58] INFO: Server started with port: 3040
+[2025-02-18 22:51:00] ERROR: Error: crypto.randomBytes is not a function
+[2025-02-18 22:52:19] INFO: Server started with port: 3040
+[2025-02-18 22:52:21] INFO: CSRF token generated
+[2025-02-18 22:53:16] WARN: Attempted Route: /v1/api/data/test
+[2025-02-18 22:53:16] INFO: CSRF token generated
+[2025-02-18 22:53:26] ERROR: Invalid CSRF token
+[2025-02-18 22:53:26] INFO: CSRF token generated
+[2025-02-18 22:53:37] INFO: CSRF token generated
+[2025-02-18 22:53:46] INFO: CSRF token generated
+[2025-02-18 22:53:46] INFO: Sending email to: divapramy@gmail.com
+[2025-02-18 22:53:48] INFO: Email sent! 250 2.0.0 OK  1739915628 a640c23a62f3a-abbaa7d1842sm333570566b.39 - gsmtp
+[2025-02-18 22:54:00] ERROR: Invalid CSRF token
+[2025-02-18 22:54:00] INFO: CSRF token generated
+[2025-02-18 22:58:30] INFO: Server started with port: 3040
+[2025-02-18 23:04:04] INFO: CSRF token generated
+[2025-02-18 23:04:22] INFO: CSRF token generated
+[2025-02-18 23:57:38] INFO: Server started with port: 3040
+[2025-02-18 23:57:44] ERROR: Error: csrfToken is not defined
+[2025-02-18 23:58:55] ERROR: Error: csrfToken is not defined
+[2025-02-18 23:59:14] INFO: Server started with port: 3040
+[2025-02-18 23:59:16] ERROR: Error: csrfToken is not defined
+[2025-02-18 23:59:32] INFO: Server started with port: 3040
+[2025-02-18 23:59:34] ERROR: Error: csrfToken is not defined
