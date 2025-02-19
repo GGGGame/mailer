@@ -102,3 +102,120 @@
 [2025-02-19 03:43:58] INFO: CSRF token generated
 [2025-02-19 03:43:58] INFO: Sending email to: davidericca109@gmail.com
 [2025-02-19 03:44:01] INFO: Email sent! 250 2.0.0 OK  1739933041 a640c23a62f3a-abb9654a6b2sm538797266b.135 - gsmtp
+[2025-02-19 21:56:41] INFO: Server started with port: 3040
+[2025-02-19 21:56:46] INFO: CSRF token generated
+[2025-02-19 21:56:46] INFO: CSRF token generated
+[2025-02-19 21:57:21] INFO: CSRF token generated
+[2025-02-19 21:57:21] INFO: CSRF token generated
+[2025-02-19 21:58:58] INFO: Server started with port: 3040
+[2025-02-19 21:59:00] INFO: CSRF token generated
+[2025-02-19 21:59:00] INFO: CSRF token generated
+[2025-02-19 21:59:00] ERROR: yup is not defined
+[2025-02-19 21:59:31] INFO: Server started with port: 3040
+[2025-02-19 21:59:33] INFO: CSRF token generated
+[2025-02-19 21:59:33] INFO: CSRF token generated
+[2025-02-19 21:59:33] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 21:59:34] INFO: Email sent! 250 2.0.0 OK  1739998774 a640c23a62f3a-abbbefd080asm379274366b.179 - gsmtp
+[2025-02-19 22:15:52] INFO: CSRF token generated
+[2025-02-19 22:15:52] INFO: CSRF token generated
+[2025-02-19 22:15:52] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:15:56] INFO: Email sent! 250 2.0.0 OK  1739999756 2adb3069b0e04-545309f68dasm1640515e87.239 - gsmtp
+[2025-02-19 22:18:00] INFO: CSRF token generated
+[2025-02-19 22:18:00] INFO: CSRF token generated
+[2025-02-19 22:18:00] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:18:01] INFO: Email sent! 250 2.0.0 OK  1739999881 a640c23a62f3a-aba53232254sm1325709666b.27 - gsmtp
+[2025-02-19 22:24:27] INFO: CSRF token generated
+[2025-02-19 22:24:27] INFO: CSRF token generated
+[2025-02-19 22:24:27] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:24:30] INFO: Email sent! 250 2.0.0 OK  1740000270 4fb4d7f45d1cf-5e075f59e3csm3782961a12.43 - gsmtp
+[2025-02-19 22:25:27] INFO: CSRF token generated
+[2025-02-19 22:25:27] INFO: CSRF token generated
+[2025-02-19 22:25:27] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:25:28] INFO: Email sent! 250 2.0.0 OK  1740000328 a640c23a62f3a-aba53232254sm1326512666b.27 - gsmtp
+[2025-02-19 22:26:29] INFO: CSRF token generated
+[2025-02-19 22:26:29] INFO: CSRF token generated
+[2025-02-19 22:26:29] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:26:30] INFO: Email sent! 250 2.0.0 OK  1740000390 a640c23a62f3a-abb6f13b11esm970710166b.71 - gsmtp
+[2025-02-19 22:27:36] INFO: CSRF token generated
+[2025-02-19 22:27:36] INFO: CSRF token generated
+[2025-02-19 22:27:36] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:27:38] INFO: Email sent! 250 2.0.0 OK  1740000458 4fb4d7f45d1cf-5dece1c3ce5sm11235122a12.17 - gsmtp
+[2025-02-19 22:30:20] INFO: CSRF token generated
+[2025-02-19 22:30:20] INFO: CSRF token generated
+[2025-02-19 22:30:20] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:30:23] INFO: Email sent! 250 2.0.0 OK  1740000623 4fb4d7f45d1cf-5ded69e7c33sm10096383a12.61 - gsmtp
+[2025-02-19 22:30:37] INFO: CSRF token generated
+[2025-02-19 22:30:37] INFO: CSRF token generated
+[2025-02-19 22:30:37] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:30:37] INFO: CSRF token generated
+[2025-02-19 22:30:37] INFO: CSRF token generated
+[2025-02-19 22:30:37] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:30:38] INFO: CSRF token generated
+[2025-02-19 22:30:38] INFO: CSRF token generated
+[2025-02-19 22:30:38] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:30:38] INFO: CSRF token generated
+[2025-02-19 22:30:38] INFO: CSRF token generated
+[2025-02-19 22:30:38] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:30:38] INFO: CSRF token generated
+[2025-02-19 22:30:38] INFO: CSRF token generated
+[2025-02-19 22:30:38] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:30:38] INFO: CSRF token generated
+[2025-02-19 22:30:38] INFO: CSRF token generated
+[2025-02-19 22:30:38] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:30:38] INFO: Email sent! 250 2.0.0 OK  1740000638 a640c23a62f3a-abbdb24d6dcsm183509366b.185 - gsmtp
+[2025-02-19 22:30:38] INFO: CSRF token generated
+[2025-02-19 22:30:38] INFO: CSRF token generated
+[2025-02-19 22:30:38] ERROR: Invalid CSRF token
+[2025-02-19 22:30:38] INFO: CSRF token generated
+[2025-02-19 22:30:38] INFO: CSRF token generated
+[2025-02-19 22:30:38] ERROR: Invalid CSRF token
+[2025-02-19 22:30:38] INFO: CSRF token generated
+[2025-02-19 22:30:38] ERROR: Invalid CSRF token
+[2025-02-19 22:30:38] INFO: CSRF token generated
+[2025-02-19 22:30:39] INFO: Email sent! 250 2.0.0 OK  1740000639 a640c23a62f3a-abb6c312637sm973785266b.45 - gsmtp
+[2025-02-19 22:30:39] INFO: Email sent! 250 2.0.0 OK  1740000639 a640c23a62f3a-abb978e2c9dsm702379566b.65 - gsmtp
+[2025-02-19 22:30:39] INFO: Email sent! 250 2.0.0 OK  1740000639 a640c23a62f3a-abbbde95957sm381474066b.138 - gsmtp
+[2025-02-19 22:30:39] INFO: Email sent! 250 2.0.0 OK  1740000639 a640c23a62f3a-aba532323cbsm1359408466b.14 - gsmtp
+[2025-02-19 22:30:40] INFO: Email sent! 250 2.0.0 OK  1740000640 4fb4d7f45d1cf-5dece1c3ce5sm11238024a12.17 - gsmtp
+[2025-02-19 22:32:04] INFO: CSRF token generated
+[2025-02-19 22:32:04] INFO: CSRF token generated
+[2025-02-19 22:32:04] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:32:07] INFO: Email sent! 250 2.0.0 OK  1740000727 4fb4d7f45d1cf-5dece1c4646sm11074825a12.27 - gsmtp
+[2025-02-19 22:32:13] INFO: CSRF token generated
+[2025-02-19 22:32:13] INFO: CSRF token generated
+[2025-02-19 22:32:13] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:32:15] INFO: Email sent! 250 2.0.0 OK  1740000735 4fb4d7f45d1cf-5dedd35b0aasm9631492a12.52 - gsmtp
+[2025-02-19 22:32:15] INFO: CSRF token generated
+[2025-02-19 22:32:15] INFO: CSRF token generated
+[2025-02-19 22:32:15] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:32:17] INFO: Email sent! 250 2.0.0 OK  1740000737 a640c23a62f3a-abb8e9b95acsm776814766b.100 - gsmtp
+[2025-02-19 22:33:20] INFO: Server started with port: 3040
+[2025-02-19 22:33:28] INFO: CSRF token generated
+[2025-02-19 22:33:28] INFO: CSRF token generated
+[2025-02-19 22:33:28] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:33:29] INFO: Email sent! 250 2.0.0 OK  1740000809 a640c23a62f3a-abb978e2c9dsm702688666b.65 - gsmtp
+[2025-02-19 22:33:30] INFO: CSRF token generated
+[2025-02-19 22:33:30] INFO: CSRF token generated
+[2025-02-19 22:33:30] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:33:31] INFO: Email sent! 250 2.0.0 OK  1740000811 a640c23a62f3a-abb8a647c7dsm799587866b.72 - gsmtp
+[2025-02-19 22:33:32] INFO: CSRF token generated
+[2025-02-19 22:33:32] INFO: CSRF token generated
+[2025-02-19 22:33:32] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:33:34] INFO: Email sent! 250 2.0.0 OK  1740000814 4fb4d7f45d1cf-5dece287c54sm10914208a12.69 - gsmtp
+[2025-02-19 22:33:35] INFO: CSRF token generated
+[2025-02-19 22:33:35] INFO: CSRF token generated
+[2025-02-19 22:33:35] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:33:36] INFO: Email sent! 250 2.0.0 OK  1740000816 a640c23a62f3a-abb94e4d0adsm732720566b.56 - gsmtp
+[2025-02-19 22:49:48] INFO: CSRF token generated
+[2025-02-19 22:49:48] INFO: CSRF token generated
+[2025-02-19 22:49:48] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:49:49] INFO: Email sent! 250 2.0.0 OK  1740001789 a640c23a62f3a-abb7aecd3d5sm924727566b.148 - gsmtp
+[2025-02-19 22:50:06] INFO: CSRF token generated
+[2025-02-19 22:50:06] INFO: CSRF token generated
+[2025-02-19 22:50:06] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:50:07] INFO: Email sent! 250 2.0.0 OK  1740001807 a640c23a62f3a-abba8b1df9bsm554405666b.114 - gsmtp
+[2025-02-19 22:50:28] INFO: CSRF token generated
+[2025-02-19 22:50:28] INFO: CSRF token generated
+[2025-02-19 22:50:28] INFO: Sending email to: davidericca109@gmail.com
+[2025-02-19 22:50:29] INFO: Email sent! 250 2.0.0 OK  1740001829 a640c23a62f3a-abb8a1eba0dsm812924166b.97 - gsmtp
+[2025-02-19 22:53:09] INFO: CSRF token generated

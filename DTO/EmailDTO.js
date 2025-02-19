@@ -1,4 +1,4 @@
-import Yup from 'yup';
+import yup from 'yup';
 
 export class EmailDTO {
 
@@ -10,11 +10,19 @@ export class EmailDTO {
     }
 
     static validationSchema() {
-        return Yup.object({
-            name: Yup.string().required('Name is required!'),
-            email: Yup.string().email('Invalid email format').required('Email is required!'),
-            object: Yup.string().required('Object email is required!'),
-            context: Yup.string().required('Message content is required!')
+        return yup.object().shape({
+            name: yup.string()
+                .matches(/^[A-Za-z\s]+$/, 'Name must not contain numbers')
+                .required('Name is required'),
+            email: yup.string()
+                .email('Invalid email format')
+                .required('Email is required'),
+            object: yup.string()
+                .required('Object is required'),
+            context: yup.string()
+                .min(10, 'Context must be at least 10 characters')
+                .max(500, 'Context must be at most 500 characters')
+                .required('Context is required')
         });
     }
 

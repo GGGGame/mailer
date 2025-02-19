@@ -49,7 +49,7 @@ router.post('/api/data', csrfProtection, async (req, res, next) => {
         }
 
     } catch (error) {
-        res.status(400).send(error.message);
+        logger.error(error.message);
     }
 });
 
