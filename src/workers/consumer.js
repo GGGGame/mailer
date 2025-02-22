@@ -1,6 +1,6 @@
 import amqp from 'amqplib';
-import { Mailer } from "./Mailer.js";
-import { logger } from './logger.js';
+import { Mailer } from "../services/Mailer.js";
+import { logger } from '../utils/logger.js';
 
 export const consumeEmailQueue = async () => {
     try {

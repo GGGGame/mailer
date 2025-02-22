@@ -1,5 +1,5 @@
 import amqp from 'amqplib';
-import { logger } from './logger.js';
+import { logger } from '../utils/logger.js';
 
 export const queueEmail = async (emailData) => {
     let connection;

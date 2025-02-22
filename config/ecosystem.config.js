@@ -9,7 +9,7 @@ export const apps = [
     },
     {
         name: 'consumer',
-        script: './consumer.js',
+        script: './src/workers/consumer.js',
         watch: false,
         exec_mode: 'fork',
         args: '--no-daemon',

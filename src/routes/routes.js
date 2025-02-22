@@ -1,9 +1,9 @@
 import express from 'express';
-import { EmailDTO } from './DTO/EmailDTO.js';
-import { Mailer } from './Mailer.js';
-import { logger } from './logger.js';
+import { EmailDTO } from '../../DTO/EmailDTO.js';
+import { Mailer } from '../services/Mailer.js';
+import { logger } from '../utils/logger.js';
 import dotenv from 'dotenv';
-import { queueEmail } from './publisher.js';
+import { queueEmail } from '../workers/publisher.js';
 dotenv.config();
 
 const router = express.Router();

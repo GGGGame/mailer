@@ -1,8 +1,8 @@
 import express from 'express';
 import dotenv from 'dotenv';
-import routes from './routes.js';
+import routes from './src/routes/routes.js';
 import cors from 'cors';
-import { logger } from './logger.js';
+import { logger } from './src/utils/logger.js';
 import cookieParser from 'cookie-parser';
 import helmet from 'helmet';
 import rateLimit from 'express-rate-limit';
