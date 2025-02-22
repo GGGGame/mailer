@@ -17,11 +17,20 @@ export class Mailer {
             }
         }
     }
+
+    translateData() {
+        return {
+            "course": "Course information",
+            "subscription":  "Subscription information",
+            "price": "Price information",
+            "information": "General information", 
+        }
+    }
     
     constructor(emailDTO) {
         this.name = emailDTO.name;
         this.email = emailDTO.email;
-        this.object = emailDTO.object;
+        this.object = this.translateData()[emailDTO.object] || "Subject Error";
         this.context = emailDTO.context;
         this.mailer = nodemailer.createTransport(Mailer.transportOptions());
     }

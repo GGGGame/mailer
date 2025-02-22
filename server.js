@@ -13,7 +13,7 @@ dotenv.config();
 const app = express();
 
 const corsOptions = {
-    origin: ['http://localhost:3040', 'http://localhost:5173'],
+    origin: ['http://localhost:3040', 'http://localhost:100', 'http://localhost:5173'],
     methods: ['POST'],
     allowedHeaders: ['Content-Type', 'Authorization', 'x-csrf-token'],
     credentials: true,
